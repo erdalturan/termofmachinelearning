@@ -23,7 +23,7 @@
     *ASGD = 'ASGD'
     *FTRL = 'FTRL'
 
-    # Activation Functions List
+# Activation Functions List
     *ELU = "ELU"
     *Hardshrink = "Hardshrink"
     *Hardsigmoid = "Hardsigmoid"
@@ -56,7 +56,7 @@
     *AdaptiveLogSoftmaxWithLoss = "AdaptiveLogSoftmaxWithLoss"
 
   
-   # Loss Functions List
+ # Loss Functions List
     *L1 = 'L1'
     *MSE = 'MSE'
     *CROSS_ENTROPY = 'Cross Entropy'
