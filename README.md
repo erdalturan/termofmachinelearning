@@ -7,6 +7,7 @@
 *  GRU (Gated Recurrent Unit) 
 *  SVM (Support-vector machine)
 *  AR (Auto Regresive Model)
+*  GAN (Generative Adversarial Networks)
 
 
 
